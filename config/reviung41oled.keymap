@@ -28,8 +28,6 @@
 &kp LSHFT  &kp Z  &kp X  &kp C     &kp V        &kp B             &kp N  &kp M            &kp COMMA  &kp DOT  &kp FSLH  &mt RSHFT RET
                          &kp LALT  &lt 1 SPACE         &kp SPACE         &rgb_ug RGB_TOG  &mo 3
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         lower_layer {
